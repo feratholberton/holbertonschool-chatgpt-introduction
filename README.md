@@ -1,2 +1,3 @@
-# holbertonschool-chatgpt-introduction
-ChatGPT - Introduction
+# ChatGPT - Introduction
+
+Enhancing Code Quality and Efficiency with ChatGPT
