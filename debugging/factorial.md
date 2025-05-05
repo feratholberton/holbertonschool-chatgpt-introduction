@@ -1,4 +1,4 @@
-# Factorial
+# 0. Debugging - Python Factorial
 
 ## Initial code (With a Bug)
 ```python
